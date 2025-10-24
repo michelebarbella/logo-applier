@@ -135,7 +135,7 @@ If you interrupt processing, all already processed images are automatically save
 
 ### Supported Formats
 - **Input**: JPG, JPEG, PNG, BMP, GIF
-- **Output**: High-quality JPEG (95%)
+- **Output**: High-quality JPEG (100%)
 
 ## 🔧 Customization
 
